@@ -2,7 +2,7 @@
 - 👀 I’m interested in Selenium, Java, Appium, Rest Assured
 - 🌱 I’m currently learning Spring Boot, Azure DevOps
 - 💞️ I’m looking to collaborate on Selenium Automation Projects
-- 📫 you can reach me by email - hello@digitalsrikanth.com
+- 📫 you can reach me by email - srikanth.keren@gmail.com
 
 <!---
 DigitalSrikanth/DigitalSrikanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
